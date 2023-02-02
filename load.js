@@ -1,4 +1,4 @@
-import Client from '/node_modules/@notionhq/client';
+const Client = require('@notionhq/client').Client
 
 const NOTION_KEY = "secret_neRBq1UwWy8byLamhhYVhw7m0sUHAN1g7KyiR9hJZEw"
 
