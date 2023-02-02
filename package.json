@@ -1,0 +1,24 @@
+{
+  "name": "bufetec_web_page",
+  "version": "1.0.0",
+  "description": "Repositorio dedicado a la página web de Bufetec a partir del día 14 de enero de 2022",
+  "main": "script_calendario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A01750658/bufetec_web_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A01750658/bufetec_web_page/issues"
+  },
+  "homepage": "https://github.com/A01750658/bufetec_web_page#readme",
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "fs": "^0.0.1-security"
+  }
+}
